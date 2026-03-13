@@ -1,0 +1,28 @@
+Body {font-size: 1.2rem;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.65;
+      text-align: center;}
+
+h1, h2, h3, h4, h5, h6 {line-height: 1.5;
+                        font-weight: bold;}
+
+h1 {font-size: 2rem;}
+
+h2 {font-size: 1.7rem;
+    margin-top: 1.5em;}
+
+h6 {margin-top: 0.6em;}
+
+.inline {display: inline;}
+
+.colored-text {color: seagreen;}
+
+#shop-all {background-color: orange;
+           color: white;}
+
+#top-logo {background-color: midnightblue;}
+#bottom-logo {background-color: midnightblue;}
+
+.a {width: 20%;
+    border-radius: 15%;}
+.b {width: 90vw;}
